@@ -1,0 +1,16 @@
+.input{
+    display: flex;
+    width: 90%;
+    position: relative;
+    align-item: center;
+}
+.input__box{
+    padding: 20px 30px;
+    border-radius: 50px;
+    font-size:25px;
+    border:none;
+    transtion: 0.2s;
+    box-shadow:inset 0 0 5px black;
+    width: 100%;
+
+}
